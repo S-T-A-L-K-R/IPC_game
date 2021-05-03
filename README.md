@@ -9,4 +9,4 @@ Server process
 Client process
 
 # Other
-Project originally submitted 22-02-2021.
+Project originally submitted 22-02-2021 for "Operating Systems 2" subject.
